@@ -18,10 +18,9 @@ Building a complete quant research portfolio from scratch.
 
 ---
 
-## Stack
+## Tools
 Python · pandas · NumPy · yfinance · matplotlib · Jupyter
 
 ---
 
 *Updated daily. Started Python 1 month ago.*
--->
