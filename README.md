@@ -1,16 +1,27 @@
-## Hi there 👋
+# MengYao | Quant Finance
 
-<!--
-**meng-quant/meng-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming MQF student at SMU Singapore (Aug 2026).  
+Self-teaching Python and quantitative finance — building projects daily.
 
-Here are some ideas to get you started:
+**Target:** Quant research / risk / fintech roles in Singapore by mid-2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## Projects
+
+### 📊 [28-Day Quant Journey](https://github.com/meng-quant/quant-journey)
+Building a complete quant research portfolio from scratch.
+- Week 1: Risk analysis — VaR, CVaR, Sharpe, rolling volatility (SPY vs STI)
+- Week 2: Derivatives & Greeks — Monte Carlo, Black-Scholes, Delta/Gamma
+- Week 3: Backtesting — Look-ahead bias detection, strategy comparison
+- Week 4: Interactive dashboard *(in progress)*
+
+---
+
+## Stack
+Python · pandas · NumPy · yfinance · matplotlib · Jupyter
+
+---
+
+*Updated daily. Started Python 1 month ago.*
 -->
